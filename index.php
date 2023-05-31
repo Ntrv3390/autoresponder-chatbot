@@ -8,7 +8,7 @@ include('database.inc.php');
    <head>
       <meta charset="utf-8">
       <meta name="robots" content="noindex, nofollow">
-      <title>Chatbot for Sciastra.com</title>
+      <title>Celestia AutoResponder ChatBot</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 	  <link href="style.css" rel="stylesheet">
@@ -19,7 +19,7 @@ include('database.inc.php');
 <!---Navbar starts-->
 
 			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-			<a class="navbar-brand" href="#">ChatBot for Sciastra.com</a>
+			<a class="navbar-brand" href="#">Celestia AutoResponder ChatBot</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -35,7 +35,7 @@ include('database.inc.php');
 
 <!---Navbar ends--> 
 	<div class="text-center" style="margin-top:30px;">
-		<b>ChatBot for Sciastra.com</b>
+		<b>Celestia AutoResponder ChatBot</b>
 		<p>Features:</p>
 		<p>-Stores the chat till 24 hours</p>
 		<p>-All the answers are dynamic</p>
